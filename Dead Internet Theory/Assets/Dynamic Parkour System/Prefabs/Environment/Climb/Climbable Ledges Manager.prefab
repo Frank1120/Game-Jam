@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1757340232224981939}
   - component: {fileID: 4401959933593777380}
   m_Layer: 0
-  m_Name: Climbable Ledges Controller
+  m_Name: Climbable Ledges Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,11 +44,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbde6facfaf11e14489f9dbe3b473850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxDistance: 1.5
   minDistance: 1.5
-  directThreshold: 0.6
   updateConnections: 0
   resetConnections: 0
-  skipDiagonals: 0
   allPoints: []
   validAngleRange: 40
 --- !u!114 &4401959933593777380
