@@ -1,0 +1,14 @@
+
+Accomplishments - A working gameplay loop.
+	 	  A functioning model that works with the parkour mechanics.
+	 	  A first level which shows off the basic gameplay loop.
+		  A completed menu screen.
+
+
+Goals - 	  At least one more level, potentially two.
+		  Implementation of a button which will open a door, or a gun that will shoot vines
+		  Implementing a way to make it so that once a level is completed, the levels color returns.
+		  Lots of design goals, such as implementing nature and sci-fi elements.
+
+
+Challenges -

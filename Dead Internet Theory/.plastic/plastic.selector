@@ -1,4 +1,3 @@
-repository "Dead Internet Theory 2025-04-20_16-59-28/Dead Internet Theory@1375778597251@cloud"
+rep "Dead Internet Theory 2025-04-20_16-59-28/Dead Internet Theory@1375778597251@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"
